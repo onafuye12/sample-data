@@ -1,3 +1,1 @@
-matplotlib @ file:///C:/ci/matplotlib-suite_1660169687702/work
-matplotlib-inline==0.1.6
-matplotlib-venn==0.11.9
+matplotlib
